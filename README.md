@@ -45,7 +45,13 @@ Landing-Page-IA
  
  ├── images/
  
- │    └── Foto.png
+ │    ├── Foto.png
+ 
+ │    ├── inicio.png
+ 
+ │    ├── habilidades.png
+ 
+ │    └── responsive.png
  
  └── README.md
  
@@ -83,8 +89,11 @@ Animación de entrada al cargar la página.
 7. Cómo Ejecutar el Proyecto
 
 Descargar o clonar el repositorio desde GitHub.
+
 Abrir la carpeta del proyecto.
+
 Ejecutar el archivo index.html en el navegador.
+
 No requiere instalación adicional.
 
 Otra alternativa es ingresando a este link de GitHub Pages: https://angelreyzzz.github.io/Landing-Page-IA/
