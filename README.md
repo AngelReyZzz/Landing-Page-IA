@@ -67,11 +67,17 @@ README.md: Documento con la explicación completa del proyecto.
 5. Funcionalidades
 
 Estructura con etiquetas HTML5 semánticas.
+
 Diseño moderno utilizando Bootstrap.
+
 Sección de perfil profesional.
+
 Barras de habilidades visuales.
+
 Diseño responsive que se adapta a celulares.
+
 Botón de contacto con enlace a correo electrónico.
+
 Animación de entrada al cargar la página.
 
 -----------------------------------------
