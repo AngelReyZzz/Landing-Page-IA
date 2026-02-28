@@ -1,6 +1,6 @@
-Landing Page – Hoja de Vida Digital
+# Landing Page – Hoja de Vida Digital
 
-1. Información General
+## 1. Información General
    
 Nombre del proyecto: Landing Page Hoja de Vida Digital
 Estudiante: Angel Ariel Rey
@@ -9,7 +9,7 @@ Curso: CALIDAD SERVICIO DE SOFTWARE 3 - Instituto I3
 
 ------------------------------------------------------------------------------------
 
-2. Descripción del Proyecto
+## 2. Descripción del Proyecto
    
 Este proyecto consiste en el desarrollo de una landing page basada en mi hoja de vida profesional. La idea fue transformar una hoja de vida tradicional en una versión digital, moderna y visualmente atractiva.
 La página muestra mi perfil profesional, habilidades y formación académica de forma organizada y accesible desde cualquier dispositivo.
@@ -22,7 +22,7 @@ Está pensado para profesores, reclutadores o cualquier persona interesada en co
 
 --------------------------------------------------------------------------------------
 
-3. Tecnologías Utilizadas
+## 3. Tecnologías Utilizadas
 
 HTML5 semántico
 CSS3
@@ -33,7 +33,7 @@ ChatGPT (utilizado como herramienta de apoyo para mejorar estilos, resolver erro
 
 -----------------------------------------
 
-4. Estructura del Proyecto
+## 4. Estructura del Proyecto
    
 Landing-Page-IA
 
@@ -64,7 +64,7 @@ images/: Carpeta donde se almacena la imagen de perfil.
 README.md: Documento con la explicación completa del proyecto.
 
 --------------------------------------------------
-5. Funcionalidades
+## 5. Funcionalidades
 
 Estructura con etiquetas HTML5 semánticas.
 
@@ -82,7 +82,7 @@ Animación de entrada al cargar la página.
 
 -----------------------------------------
 
-6. Capturas de Pantalla
+## 6. Capturas de Pantalla
 
 ![Inicio](images/inicio.png)
 
@@ -92,7 +92,7 @@ Animación de entrada al cargar la página.
 
 ------------------------------------------------
 
-7. Cómo Ejecutar el Proyecto
+## 7. Cómo Ejecutar el Proyecto
 
 Descargar o clonar el repositorio desde GitHub.
 
@@ -106,14 +106,16 @@ Otra alternativa es ingresando a este link de GitHub Pages: https://angelreyzzz.
 
 ------------------------------------------------------
 
-8. Mejoras Futuras
+## 8. Mejoras Futuras
    
 En el futuro me gustaría:
 Agregar un formulario funcional con validación en JavaScript.
 Implementar envío real de correos.
 Añadir más animaciones y efectos visuales.
 Mejorar la accesibilidad.
-Uso de Inteligencia Artificial
+Uso de Inteligencia Artificial.
+
+---------------------------------------------
 
 La inteligencia artificial fue utilizada como herramienta de apoyo para:
 
@@ -126,4 +128,4 @@ Sin embargo, todo el código fue revisado, entendido y modificado por mí antes 
 
 --------------------------------------
 
-Este proyecto me permitió aplicar lo aprendido desde HTML básico hasta una página más organizada y profesional, usando GitHub para gestionar el código. Tengo pensado seguir aprendiendo más de este tipo de programacion por mi cuenta para mejorar mi calidad en futuros proyectos.
+Este proyecto me permitió aplicar lo aprendido desde HTML básico hasta una página más organizada y profesional, usando GitHub para gestionar el código. Tengo pensado seguir aprendiendo más de este tipo de programación por mi cuenta para mejorar mi calidad en futuros proyectos.
